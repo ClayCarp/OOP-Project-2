@@ -14,4 +14,3 @@ rainy,65,90,TRUE,xbox
 overcast,80,80,FALSE,tennis
 overcast,82,75,FALSE,tennis
 overcast,90,84,TRUE,tennis
-overcast,90,84,TRUE,tennis
